@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Prateek. 👋
 
 <!--
 **Khprateek/Khprateek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Self Projects</h3>
+<ol>
+  <li><a href="https://github.com/Khprateek/Playground">
+    Playground
+  </a>
+    - Decentralised Web3 platform : peer-to-peer gaming experiences with Ethereum-powered stake mechanisms.
+  </li>
+</ol>
