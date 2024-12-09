@@ -20,9 +20,7 @@ Here are some ideas to get you started:
   </a>
     - Decentralised Web3 platform : peer-to-peer gaming experiences with Ethereum-powered stake mechanisms.
   </li>
-</ol>
-<ol>
-  <li><a href="https://github.com/Khprateek/Playground">
+    <li><a href="https://github.com/Khprateek/Credenson">
     Credenson
   </a>
     - An E-Commerce website for Anime Lovers.
