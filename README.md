@@ -20,9 +20,14 @@ Here are some ideas to get you started:
   </a>
     - Decentralised Web3 platform : peer-to-peer gaming experiences with Ethereum-powered stake mechanisms.
   </li>
-    <li><a href="https://github.com/Khprateek/Credenson">
+  <li><a href="https://github.com/Khprateek/Credenson">
     Credenson
   </a>
     - An E-Commerce website for Anime Lovers.
+  </li>
+  <li><a href="https://github.com/Khprateek/INRisk">
+    INRisk
+  </a>
+    - Risk assesment and retirement planning tool with investment suggestion.
   </li>
 </ol>
