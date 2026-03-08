@@ -1,29 +1,15 @@
 ## Hi there 👋
-<!--
-**Khprateek/Khprateek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h3 align="left">Self Projects</h3>
 <ol>
-  <li><a href="https://github.com/Khprateek/Playground">
-    Playground
+  <li><a href="https://github.com/Khprateek/sql_data_warehouse">
+    Data Warehouse
   </a>
-    - Decentralised Web3 platform : peer-to-peer gaming experiences with Ethereum-powered stake mechanisms.
+    - SQL Server data warehouse built on **Medallion Architecture** — raw ingestion, data cleansing, and **star schema** modeling for customer behavior, product performance, and sales trend analytics.
   </li>
-  <li><a href="https://github.com/Khprateek/Credenson">
-    Credenson
+  <li><a href="https://github.com/Khprateek/data-warehouse-powerbi-dashboard">
+    Data Warehouse PowerBI
   </a>
-    - An E-Commerce website for Anime Lovers.
+    - Data Warehouse & Power BI Analytics Dashboard, interactive Power BI dashboard with KPI tracking, trend analysis, and business intelligence reporting.
   </li>
   <li><a href="https://github.com/Khprateek/INRisk">
     INRisk
