@@ -9,10 +9,12 @@
     - A 3-layer dbt transformation architecture — staging, intermediate, and mart — produces analytics-ready tables powering a live Looker Studio dashboard 
     - The project includes GitHub Actions CI/CD with automated linting, pytest, and dbt model validation.
   </li>
-  <li><a href="https://github.com/Khprateek/sql_data_warehouse">
-    Data Warehouse
+  <li><a href="https://github.com/Khprateek/GenAI_Ecommerce_Analytics_Copilot">
+    GenAI-Powered Cloud Analytics Copilot for E-Commerce Data Warehousing
   </a>
-    - SQL Server data warehouse built on **Medallion Architecture** — raw ingestion, data cleansing, and **star schema** modeling for customer behavior, product performance, and sales trend analytics.
+    - GenAI-powered analytics copilot using Airflow, BigQuery, dbt, Gemini API, and Streamlit, enabling natural-language-to-SQL querying, AI-generated business insights, automated data quality monitoring, and cloud-native analytics on a modern star-schema data warehouse.
+    - Built a 19-model dbt pipeline across staging, intermediate, and marts layers, with 40+ automated tests ensuring analysis-
+ready data.
   </li>
   <li><a href="https://github.com/Khprateek/data-warehouse-powerbi-dashboard">
     Data Warehouse PowerBI
