@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3 align="left">Self Projects</h3>
+<h3 align="left">Projects</h3>
 <ol>
     <li><a href="https://github.com/Khprateek/End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-">
     End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow
