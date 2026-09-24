@@ -18,29 +18,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 Who I Am
-
-```ts
-const prateek = {
-  name: "Prateek Kharwar",
-  title: "Data Engineer",
-  stack: [
-    "Python", "SQL / T-SQL", "Apache Airflow", "dbt", "BigQuery",
-    "GCP", "AWS", "Docker", "GitHub Actions", "Streamlit",
-    "Gemini API", "Power BI", "Looker Studio", "Excel"
-  ],
-  launchedProjects: [
-    "IndiaWeatherFlow - hourly weather pipeline (Airflow + dbt + BigQuery)",
-    "GenAI Ecommerce Analytics Copilot - NL-to-SQL on a star-schema warehouse",
-    "Data Warehouse Power BI Dashboard",
-    "Online Store Annual Analysis - Excel dashboard"
-  ],
-  certifications: [],
-  status: "Building cloud data pipelines and analytics platforms",
-  openTo: ["Data Engineering", "Cloud Analytics", "Collaboration"]
-};
 ```
 
 ---
