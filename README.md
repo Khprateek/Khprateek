@@ -106,24 +106,6 @@ End-to-end analytics pipeline with a star-schema SQL data warehouse, an ETL laye
 
 ---
 
-### 🛒 Online Store Annual Analysis - Excel Dashboard
-
-<a href="https://github.com/Khprateek/Online-Store-Annual-Analysis-Excel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khprateek&repo=Online-Store-Annual-Analysis-Excel&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080&icon_color=ff3b3b" alt="Online Store Annual Analysis Excel" />
-</a>
-
-End-to-end Excel analysis of 2022 annual sales for an online retail store, uncovering insights across customer demographics, geographies, and sales channels to guide 2023 decisions.
-
-| Layer | Technology |
-| :--- | :--- |
-| Analysis | Microsoft Excel |
-| Focus | Demographics, geography, channels |
-| Output | Interactive Excel dashboard |
-
-[![Code](https://img.shields.io/badge/Code-View%20Repo-ff3b3b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Khprateek/Online-Store-Annual-Analysis-Excel)
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages and Analysis**
@@ -149,29 +131,6 @@ End-to-end Excel analysis of 2022 annual sales for an online retail store, uncov
 ![Power BI](https://img.shields.io/badge/Power%20BI-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=ff3b3b)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-1a1a1a?style=for-the-badge&logo=looker&logoColor=ff3b3b)
 ![Excel](https://img.shields.io/badge/Excel-1a1a1a?style=for-the-badge&logo=microsoftexcel&logoColor=ff3b3b)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Khprateek&show_icons=true&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080&icon_color=ff3b3b" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khprateek&layout=compact&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Khprateek&theme=dark&background=0d0d0d&border=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff8080&dates=ff8080" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khprateek&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khprateek&bg_color=0d0d0d&color=ff8080&line=ff3b3b&point=ffffff&area=true&area_color=ff3b3b&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
-
-</div>
 
 ---
 
