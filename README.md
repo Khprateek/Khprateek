@@ -1,27 +1,6 @@
 <!-- Accent: #ff3b3b (red) | Background: #0d0d0d (black) -->
 
-<!-- ============ HEADER ============ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff3b3b&height=230&section=header&text=Prateek%20Kharwar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer&descSize=22&descAlignY=58" width="100%" alt="Prateek Kharwar - Data Engineer" />
-
-<a href="https://github.com/Khprateek">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3B3B&center=true&vCenter=true&width=760&lines=Data+Engineer+building+cloud+pipelines+on+GCP;Airflow+%2B+dbt+%2B+BigQuery%2C+orchestrated+end+to+end;GenAI+Analytics+Copilot+with+Gemini+and+Streamlit;SQL+Data+Warehouses+and+Power+BI+Dashboards" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Khprateek&label=PROFILE+VIEWS&color=ff3b3b&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/Khprateek?tab=followers">
-  <img src="https://img.shields.io/github/followers/Khprateek?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=ff3b3b&labelColor=0d0d0d" alt="GitHub followers" />
-</a>
-
-</div>
-
-```
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff3b3b&height=120&section=header&animation=twinkling" width="100%" alt="header" />
 ## 🚀 Featured Projects
 
 ### ⛅ IndiaWeatherFlow - End-to-End Cloud Weather Pipeline
