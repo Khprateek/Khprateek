@@ -31,39 +31,15 @@ comment markers at the start and end of this block so it shows up.
 
 ## Tech Stack
 
-**Languages and Analysis**
-
-<img src="https://skillicons.dev/icons?i=py,cpp,pandas,numpy&theme=dark" alt="Languages" />
-
-**Cloud and Infra**
-
-<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes&theme=dark" alt="Cloud and infra" />
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" alt="Dev tools" />
-
-**Data Engineering, AI and BI**
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=ff3b3b)
-![Apache Airflow](https://img.shields.io/badge/Airflow-1a1a1a?style=for-the-badge&logo=apacheairflow&logoColor=ff3b3b)
-![dbt](https://img.shields.io/badge/dbt-1a1a1a?style=for-the-badge&logo=dbt&logoColor=ff3b3b)
-![BigQuery](https://img.shields.io/badge/BigQuery-1a1a1a?style=for-the-badge&logo=googlebigquery&logoColor=ff3b3b)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff3b3b)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a1a1a?style=for-the-badge&logo=streamlit&logoColor=ff3b3b)
-![Gemini](https://img.shields.io/badge/Gemini%20API-1a1a1a?style=for-the-badge&logo=googlegemini&logoColor=ff3b3b)
-![Power BI](https://img.shields.io/badge/Power%20BI-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=ff3b3b)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-1a1a1a?style=for-the-badge&logo=looker&logoColor=ff3b3b)
-![Excel](https://img.shields.io/badge/Excel-1a1a1a?style=for-the-badge&logo=microsoftexcel&logoColor=ff3b3b)
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek%20Kharwar-ff3b3b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/prateek-kharwar-a7764b270/)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `SQL (T-SQL)` `C++` |
+| **Data Processing** | `Apache Spark` `pandas` `NumPy` |
+| **Orchestration and Transformation** | `Apache Airflow` `dbt` |
+| **Cloud and Warehousing** | `GCP` `BigQuery` `SQL Server` |
+| **Containers and Infrastructure** | `Docker` `Kubernetes` |
+| **GenAI and Apps** | `Gemini API` `Streamlit` |
+| **BI and Analytics** | `Power BI` `Looker Studio` `Excel` |
+| **Dev Tools and CI/CD** | `Git` `GitHub Actions` `pytest` `VS Code` |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff3b3b&height=150&section=footer&animation=twinkling" width="100%" alt="footer" />
-
-</div>
