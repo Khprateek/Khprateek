@@ -1,9 +1,10 @@
 <!-- Accent: #ff3b3b (red) | Background: #0d0d0d (black) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff3b3b&height=120&section=header&animation=twinkling" width="100%" alt="header" />
-## 🚀 Featured Projects
 
-### ⛅ IndiaWeatherFlow - End-to-End Cloud Weather Pipeline
+### Featured Projects
+
+## IndiaWeatherFlow - End-to-End Cloud Weather Pipeline
 
 <a href="https://github.com/Khprateek/End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khprateek&repo=End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080&icon_color=ff3b3b" alt="IndiaWeatherFlow" />
@@ -24,7 +25,7 @@ Ingests real-time weather data for 10 Indian cities every hour, batch-loads vali
 
 ---
 
-### 🤖 GenAI-Powered Cloud Analytics Copilot for E-Commerce
+## GenAI-Powered Cloud Analytics Copilot for E-Commerce
 
 <a href="https://github.com/Khprateek/GenAI_Ecommerce_Analytics_Copilot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khprateek&repo=GenAI_Ecommerce_Analytics_Copilot&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080&icon_color=ff3b3b" alt="GenAI Ecommerce Analytics Copilot" />
@@ -44,7 +45,7 @@ Natural-language-to-SQL querying, AI-generated business insights, and automated 
 
 ---
 
-### 📊 Data Warehouse and Power BI Analytics Dashboard
+## Data Warehouse and Power BI Analytics Dashboard
 
 <a href="https://github.com/Khprateek/data-warehouse-powerbi-dashboard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khprateek&repo=data-warehouse-powerbi-dashboard&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080&icon_color=ff3b3b" alt="Data Warehouse Power BI Dashboard" />
@@ -62,7 +63,7 @@ End-to-end analytics pipeline with a star-schema SQL data warehouse, an ETL laye
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages and Analysis**
 
