@@ -67,11 +67,11 @@ End-to-end analytics pipeline with a star-schema SQL data warehouse, an ETL laye
 
 **Languages and Analysis**
 
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,cpp,pandas,numpy&theme=dark" alt="Languages" />
 
 **Cloud and Infra**
 
-<img src="https://skillicons.dev/icons?i=gcp,aws,docker&theme=dark" alt="Cloud and infra" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes&theme=dark" alt="Cloud and infra" />
 
 **Dev Tools**
 
@@ -79,6 +79,7 @@ End-to-end analytics pipeline with a star-schema SQL data warehouse, an ETL laye
 
 **Data Engineering, AI and BI**
 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=ff3b3b)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-1a1a1a?style=for-the-badge&logo=apacheairflow&logoColor=ff3b3b)
 ![dbt](https://img.shields.io/badge/dbt-1a1a1a?style=for-the-badge&logo=dbt&logoColor=ff3b3b)
 ![BigQuery](https://img.shields.io/badge/BigQuery-1a1a1a?style=for-the-badge&logo=googlebigquery&logoColor=ff3b3b)
