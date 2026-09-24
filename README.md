@@ -2,66 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff3b3b&height=120&section=header&animation=twinkling" width="100%" alt="header" />
 
-### Featured Projects
+## Featured Projects
 
-## IndiaWeatherFlow - End-to-End Cloud Weather Pipeline
-
-<a href="https://github.com/Khprateek/End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khprateek&repo=End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080&icon_color=ff3b3b" alt="IndiaWeatherFlow" />
-</a>
-
-Ingests real-time weather data for 10 Indian cities every hour, batch-loads validated JSON into BigQuery, and transforms it through a 3-layer dbt architecture (staging, intermediate, mart) that powers a live Looker Studio dashboard.
-
-| Layer | Technology |
-| :--- | :--- |
-| Ingestion | Python, OpenWeatherMap API |
-| Orchestration | Apache Airflow (Docker Compose) |
-| Warehouse | Google BigQuery |
-| Transformation | dbt (staging, intermediate, mart) |
-| BI | Looker Studio |
-| CI/CD and Testing | GitHub Actions, pytest, Ruff |
-
-[![Code](https://img.shields.io/badge/Code-View%20Repo-ff3b3b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Khprateek/End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-)
+| Project | Overview | Stack |
+| :--- | :--- | :--- |
+| **[IndiaWeatherFlow](https://github.com/Khprateek/End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-)**<br/>Cloud weather data pipeline | Hourly ingestion of weather data for 10 Indian cities via OpenWeatherMap, orchestrated by Airflow (Docker) into BigQuery, modeled with a 3-layer dbt architecture (staging, intermediate, mart) and served on a live Looker Studio dashboard. CI/CD with GitHub Actions, pytest and Ruff. | Python, Airflow, Docker, BigQuery, dbt, Looker Studio, GitHub Actions |
+| **[GenAI Analytics Copilot](https://github.com/Khprateek/GenAI_Ecommerce_Analytics_Copilot)**<br/>E-commerce data warehouse | Natural-language-to-SQL querying, AI-generated business insights and automated data quality monitoring on a star-schema warehouse, backed by 19 dbt models and 40+ automated tests. | Airflow, BigQuery, dbt, Gemini API, Streamlit |
 
 ---
 
-## GenAI-Powered Cloud Analytics Copilot for E-Commerce
+<!--
+OPEN SOURCE CONTRIBUTIONS - template, hidden until filled in.
+Replace the examples with your real contributions, then remove the
+comment markers at the start and end of this block so it shows up.
 
-<a href="https://github.com/Khprateek/GenAI_Ecommerce_Analytics_Copilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khprateek&repo=GenAI_Ecommerce_Analytics_Copilot&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080&icon_color=ff3b3b" alt="GenAI Ecommerce Analytics Copilot" />
-</a>
+## Open Source Contributions
 
-Natural-language-to-SQL querying, AI-generated business insights, and automated data quality monitoring on a cloud-native star-schema data warehouse, backed by a 19-model dbt pipeline with 40+ automated tests.
+**Category name (e.g. Data Tools)**
 
-| Layer | Technology |
-| :--- | :--- |
-| Orchestration | Apache Airflow |
-| Warehouse | Google BigQuery (star schema) |
-| Transformation | dbt (19 models, 40+ tests) |
-| GenAI | Gemini API |
-| App / UI | Streamlit |
+* [repo-name](https://github.com/OWNER/REPO/pulls?q=is%3Apr+author%3AKhprateek) (contributor)
 
-[![Code](https://img.shields.io/badge/Code-View%20Repo-ff3b3b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Khprateek/GenAI_Ecommerce_Analytics_Copilot)
+**Another category**
+
+* [repo-name](https://github.com/OWNER/REPO/pulls?q=is%3Apr+author%3AKhprateek) (contributor)
 
 ---
-
-## Data Warehouse and Power BI Analytics Dashboard
-
-<a href="https://github.com/Khprateek/data-warehouse-powerbi-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khprateek&repo=data-warehouse-powerbi-dashboard&theme=nord&bg_color=0d0d0d&border_color=ff3b3b&title_color=ff3b3b&text_color=ff8080&icon_color=ff3b3b" alt="Data Warehouse Power BI Dashboard" />
-</a>
-
-End-to-end analytics pipeline with a star-schema SQL data warehouse, an ETL layer for transformation, and an interactive Power BI dashboard with KPI tracking, trend analysis, and business intelligence reporting.
-
-| Layer | Technology |
-| :--- | :--- |
-| Warehouse | SQL Server (T-SQL), star schema |
-| Transformation | SQL-based ETL |
-| BI | Power BI |
-
-[![Code](https://img.shields.io/badge/Code-View%20Repo-ff3b3b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Khprateek/data-warehouse-powerbi-dashboard)
-
----
+-->
 
 ## Tech Stack
 
