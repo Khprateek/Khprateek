@@ -1,7 +1,5 @@
 <!-- Accent: #ff3b3b (red) | Background: #0d0d0d (black) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff3b3b&height=120&section=header&animation=twinkling" width="100%" alt="header" />
-
 ## Featured Projects
 
 | Project | Overview | Stack |
