@@ -1,9 +1,8 @@
-<!-- Accent: #ff3b3b (red) | Background: #0d0d0d (black) -->
-
 ## Featured Projects
 
 | Project | Overview | Stack |
 | :--- | :--- | :--- |
+| **[Supply Chain & Inventory Optimization Hub](https://github.com/Khprateek/Supply-Chain-Inventory-Optimization-Hub)**<br/>Enterprise supply chain analytics | Analytics platform processing 9.5M+ rows across 18 Parquet files using DuckDB, with 36 dbt models, an SCD Type 2 snapshot, and 131 data quality tests. Power BI dashboards for inventory valuation, stockout monitoring, inventory aging, and operational KPIs. | Python, DuckDB, Parquet, dbt, Power BI |
 | **[IndiaWeatherFlow](https://github.com/Khprateek/End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-)**<br/>Cloud weather data pipeline | Hourly ingestion of weather data for 10 Indian cities via OpenWeatherMap, orchestrated by Airflow (Docker) into BigQuery, modeled with a 3-layer dbt architecture (staging, intermediate, mart) and served on a live Looker Studio dashboard. CI/CD with GitHub Actions, pytest and Ruff. | Python, Airflow, Docker, BigQuery, dbt, Looker Studio, GitHub Actions |
 | **[GenAI Analytics Copilot](https://github.com/Khprateek/GenAI_Ecommerce_Analytics_Copilot)**<br/>E-commerce data warehouse | Natural-language-to-SQL querying, AI-generated business insights and automated data quality monitoring on a star-schema warehouse, backed by 19 dbt models and 40+ automated tests. | Airflow, BigQuery, dbt, Gemini API, Streamlit |
 
