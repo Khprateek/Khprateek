@@ -1,39 +1,57 @@
-## Featured Projects
+# Prateek Kharwar
 
-| Project | Overview | Stack |
-| :--- | :--- | :--- |
-| **[Supply Chain & Inventory Optimization Hub](https://github.com/Khprateek/Supply-Chain-Inventory-Optimization-Hub)**<br/>Enterprise supply chain analytics | Analytics platform processing 9.5M+ rows across 18 Parquet files using DuckDB, with 36 dbt models, an SCD Type 2 snapshot, and 131 data quality tests. Power BI dashboards for inventory valuation, stockout monitoring, inventory aging, and operational KPIs. | Python, DuckDB, Parquet, dbt, Power BI |
-| **[IndiaWeatherFlow](https://github.com/Khprateek/End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-)**<br/>Cloud weather data pipeline | Hourly ingestion of weather data for 10 Indian cities via OpenWeatherMap, orchestrated by Airflow (Docker) into BigQuery, modeled with a 3-layer dbt architecture (staging, intermediate, mart) and served on a live Looker Studio dashboard. CI/CD with GitHub Actions, pytest and Ruff. | Python, Airflow, Docker, BigQuery, dbt, Looker Studio, GitHub Actions |
-| **[GenAI Analytics Copilot](https://github.com/Khprateek/GenAI_Ecommerce_Analytics_Copilot)**<br/>E-commerce data warehouse | Natural-language-to-SQL querying, AI-generated business insights and automated data quality monitoring on a star-schema warehouse, backed by 19 dbt models and 40+ automated tests. | Airflow, BigQuery, dbt, Gemini API, Streamlit |
+**Data Engineer & Analytics Engineer** · IIT Roorkee  
+[LinkedIn](https://www.linkedin.com/in/prateek-kharwar-a7764b270/) · [X (Twitter)](https://x.com/kharwarp02) · [GitHub Repositories](https://github.com/Khprateek?tab=repositories)
 
-
-<!--
-OPEN SOURCE CONTRIBUTIONS - template, hidden until filled in.
-Replace the examples with your real contributions, then remove the
-comment markers at the start and end of this block so it shows up.
-
-## Open Source Contributions
-
-**Category name (e.g. Data Tools)**
-
-* [repo-name](https://github.com/OWNER/REPO/pulls?q=is%3Apr+author%3AKhprateek) (contributor)
-
-**Another category**
-
-* [repo-name](https://github.com/OWNER/REPO/pulls?q=is%3Apr+author%3AKhprateek) (contributor)
+> Building reliable, scalable data pipelines, Kimball-modeled warehouses, and production-grade data platforms. Focused on dbt, Airflow, DuckDB, BigQuery, and applied GenAI.
 
 ---
--->
-### Open Source Contributions
+
+## 🛠 Featured Engineering Projects
+
+### 1. [Supply Chain & Inventory Optimization Hub](https://github.com/Khprateek/Supply-Chain-Inventory-Optimization-Hub)
+*Enterprise supply chain analytics platform over a 9.5M+ row warehouse.*
+- **Scale & Architecture**: Processed **9.5M+ rows** across 18 Parquet files using **DuckDB**, structured via **36 dbt models** with an SCD Type 2 snapshot for historical tracking.
+- **Data Quality & Testing**: Implemented **131 automated data tests** enforcing referential integrity, uniqueness, and custom business rules.
+- **Analytics & BI**: Designed interactive Power BI dashboards with dynamic ABC/XYZ segmentation, lead-time variance simulation, and DAX/VertiPaq memory optimization.
+- **Tech Stack**: `Python` · `DuckDB` · `Parquet` · `dbt` · `Power BI` · `DAX`
+
+---
+
+### 2. [IndiaWeatherFlow](https://github.com/Khprateek/End-to-End-Weather-Data-Pipeline-GCP-AWS-dbt-Airflow-)
+*Automated end-to-end cloud weather data pipeline.*
+- **Ingestion & Orchestration**: Automated hourly batch ingestion for 10 Indian cities via OpenWeatherMap API using **Apache Airflow in Docker**, loading validated data directly into **Google BigQuery**.
+- **Transformation Layer**: Structured a 3-layer **dbt pipeline** (staging, intermediate, and marts) for clean dimensional analytics.
+- **CI/CD & Code Quality**: Enforced linting and testing via **GitHub Actions**, `pytest`, and `Ruff`, serving live metrics to a Looker Studio dashboard.
+- **Tech Stack**: `Python` · `Apache Airflow` · `Docker` · `Google BigQuery` · `dbt` · `Looker Studio` · `GitHub Actions`
+
+---
+
+### 3. [GenAI Analytics Copilot](https://github.com/Khprateek/GenAI_Ecommerce_Analytics_Copilot)
+*Modern e-commerce data warehouse paired with a natural-language analytics copilot.*
+- **Data Warehouse**: Engineered a Kimball star-schema warehouse on **Google BigQuery** backed by **19 dbt models** and 40+ automated data tests.
+- **GenAI Copilot**: Integrated **Gemini API** and **Streamlit** to generate natural-language-to-SQL conversions, automated anomaly detection, and business summaries.
+- **Tech Stack**: `Python` · `Apache Airflow` · `Google BigQuery` · `dbt` · `Gemini API` · `Streamlit`
+
+---
+
+## 🌐 Open Source Contributions
+
 [![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
-## Tech Stack
+- **[Kestra](https://github.com/kestra-io/kestra)**: Contributed to open-source workflow orchestration.
+- **[Google / dpsynth](https://github.com/google/dpsynth)**: Contributed cross-platform development setup & documentation for WSL2/Windows.
 
-| Category | Technologies | Category | Technologies |
-| :--- | :--- | :--- | :--- |
-| **Languages** | `Python` `SQL (T-SQL)` `C++` | **Data Processing** | `Apache Spark` `pandas` `NumPy` |
-| **Orchestration and Transformation** | `Apache Airflow` `dbt` | **Cloud and Warehousing** | `GCP` `BigQuery` `SQL Server` |
-| **Containers and Infrastructure** | `Docker` `Kubernetes` | **GenAI and Apps** | `Gemini API` `Streamlit` |
-| **BI and Analytics** | `Power BI` `Looker Studio` `Excel` | **Dev Tools and CI/CD** | `Git` `GitHub Actions` `pytest` `VS Code` |
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff3b3b&height=150&section=footer&animation=twinkling" width="100%" alt="footer" />
+## 💻 Technical Arsenal
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Querying** | Python, SQL (BigQuery, T-SQL, DuckDB), C++ |
+| **Data Engineering & Modeling** | dbt, Apache Airflow, DuckDB, Apache Spark, pandas, NumPy |
+| **Cloud & Storage** | Google Cloud Platform (BigQuery, Cloud Storage), Microsoft SQL Server |
+| **DataOps & CI/CD** | Docker, Git, GitHub Actions, pytest, Ruff |
+| **BI & Applied AI** | Power BI, Looker Studio, Streamlit, Gemini API |
+
+---
